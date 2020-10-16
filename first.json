@@ -1,0 +1,190 @@
+{
+    "status": 1,
+    "info": "success",
+    "data": {
+        "Id": 3,
+        "Name": "武尊道",
+        "Img": "3.jpg",
+        "Author": "狗狍子",
+        "Desc": "武之道极，封霸环宇。布天下之大局，玄幻莫测。探险、皇族、野兽、身世、出尘、武之奥义、气之玄妙、道之真谛、人之义气，挥天下之霸气，露义士之侠义，看不尽的柔情，数不尽的洒脱，尽在狗狍子新作《武尊道》。各位书友要是觉得《武尊道》还不错的话请不要忘记向您QQ群和微博里的朋友推荐哦！",
+        "CId": 95,
+        "CName": "玄幻奇幻",
+        "LastTime": "2020/5/3 19:37:23",
+        "FirstChapterId": 300,
+        "LastChapter": "完本感言",
+        "LastChapterId": 4206919,
+        "BookStatus": "连载",
+        "SameUserBooks": [
+            {
+                "Id": 2519,
+                "Name": "官术",
+                "Author": "狗狍子",
+                "Img": "guanshu.jpg",
+                "LastChapterId": 5151703,
+                "LastChapter": "第388章 鱼阳的四大庄",
+                "Score": 0.0
+            },
+            {
+                "Id": 81263,
+                "Name": "摸金天帝",
+                "Author": "狗狍子",
+                "Img": "mojintiandi.jpg",
+                "LastChapterId": 4450785,
+                "LastChapter": "第八百九十一章 回归",
+                "Score": 0.0
+            },
+            {
+                "Id": 46061,
+                "Name": "圣脉",
+                "Author": "狗狍子",
+                "Img": "shengmai.jpg",
+                "LastChapterId": 2978325,
+                "LastChapter": "第六百三十八章 一个传说 全书完",
+                "Score": 0.0
+            },
+            {
+                "Id": 9232,
+                "Name": "特勤A组",
+                "Author": "狗狍子",
+                "Img": "teqinAzu.jpg",
+                "LastChapterId": 4895619,
+                "LastChapter": "第二百六十三章 一世风云",
+                "Score": 0.0
+            },
+            {
+                "Id": 267287,
+                "Name": "通天神捕",
+                "Author": "狗狍子",
+                "Img": "tongtianshenbu.jpg",
+                "LastChapterId": 1608402,
+                "LastChapter": "第一千零九十六章 毁了方天之舟 大结局",
+                "Score": 0.0
+            },
+            {
+                "Id": 214597,
+                "Name": "我的纨绔法身",
+                "Author": "狗狍子",
+                "Img": "wodewankufashen.jpg",
+                "LastChapterId": 1414600,
+                "LastChapter": "第二百四十一章 书写另外一个传奇",
+                "Score": 0.0
+            },
+            {
+                "Id": 129524,
+                "Name": "我知道的太多了",
+                "Author": "狗狍子",
+                "Img": "wozhidaodetaiduole.jpg",
+                "LastChapterId": 6741956,
+                "LastChapter": "第三百五十五章 冥王星的庄主",
+                "Score": 0.0
+            },
+            {
+                "Id": 464525,
+                "Name": "武神皇庭",
+                "Author": "狗狍子",
+                "Img": "wushenhuangting.jpg",
+                "LastChapterId": 2753314,
+                "LastChapter": "第七百三十六章 金牌师爷",
+                "Score": 0.0
+            },
+            {
+                "Id": 2783,
+                "Name": "仙道枭雄",
+                "Author": "狗狍子",
+                "Img": "xiandaoxiaoxiong.jpg",
+                "LastChapterId": 1662012,
+                "LastChapter": "第三十七章 突破比吃萝卜还容易",
+                "Score": 0.0
+            },
+            {
+                "Id": 8006,
+                "Name": "最强校草",
+                "Author": "狗狍子",
+                "Img": "zuiqiangxiaocao.jpg",
+                "LastChapterId": 4895620,
+                "LastChapter": "第二百六十三章 一世风云",
+                "Score": 0.0
+            }
+        ],
+        "SameCategoryBooks": [
+            {
+                "Id": 264138,
+                "Name": "保卫国师大人",
+                "Img": "baoweiguoshidaren.jpg",
+                "Score": 0.0
+            },
+            {
+                "Id": 263982,
+                "Name": "重生之武神大主播",
+                "Img": "zhongshengzhiwushendazhubo.jpg",
+                "Score": 0.0
+            },
+            {
+                "Id": 263961,
+                "Name": "帝神通鉴",
+                "Img": "dishentongjian.jpg",
+                "Score": 0.0
+            },
+            {
+                "Id": 263939,
+                "Name": "超级锻造师",
+                "Img": "chaojiduanzaoshi.jpg",
+                "Score": 0.0
+            },
+            {
+                "Id": 86,
+                "Name": "不灭武尊",
+                "Img": "86.jpg",
+                "Score": 0.0
+            },
+            {
+                "Id": 263838,
+                "Name": "恶魔就在身边",
+                "Img": "emojiuzaishenbian.jpg",
+                "Score": 0.0
+            },
+            {
+                "Id": 263886,
+                "Name": "黑龙法典",
+                "Img": "heilongfadian.jpg",
+                "Score": 0.0
+            },
+            {
+                "Id": 263782,
+                "Name": "系统的超级宗门",
+                "Img": "xitongdechaojizongmen.jpg",
+                "Score": 0.0
+            },
+            {
+                "Id": 412830,
+                "Name": "帝皇征召之千古英杰",
+                "Img": "dihuangzhengzhaozhiqianguyingjie.jpg",
+                "Score": 0.0
+            },
+            {
+                "Id": 557413,
+                "Name": "佳人茹蜜",
+                "Img": "jiarenrumi.jpg",
+                "Score": 0.0
+            },
+            {
+                "Id": 263787,
+                "Name": "最强红包皇帝",
+                "Img": "zuiqianghongbaohuangdi.jpg",
+                "Score": 0.0
+            },
+            {
+                "Id": 457442,
+                "Name": "家里有门通洪荒",
+                "Img": "jialiyoumentonghonghuang.jpg",
+                "Score": 0.0
+            }
+        ],
+        "BookVote": {
+            "BookId": 3,
+            "TotalScore": 6,
+            "VoterCount": 1,
+            "Score": 6.0
+        }
+    }
+}

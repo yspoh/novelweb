@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>[一起看小说网]_免费网络小说阅读平台</title>
+    <meta name="keywords" content="新笔趣阁,网络小说,小说阅读网,小说,笔趣阁,免费" />
+    <meta name="description" content="一起看小说网，收录了以前和当前最火热的网络小说，免费提供高质量的小说最新章节，是广大网络小说爱好者必备的小说阅读网。" />
+    <meta name="author" content="yspohoo">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <div id="top_row">
+        <a href="index.html">
+            <img width="80px" height="80px" alt="HomePage" src="{% static 'image/cover.png' %}">
+        </a>
+    </div>
+    {# 定义母板 #}
+    {% block content %}
+
+    {% endblock %}
+</body>
+</html>
